@@ -1,0 +1,61 @@
+.floatingscrollbar {
+  overflow-x: auto;
+  width: 100%;
+}
+body
+{
+	background-image: url('../pictures/bg2.png') !important;
+}
+.mitabla>tfoot>tr>th
+{
+	padding-bottom: 0px !important;
+}
+.form
+{
+	padding-left: 15px !important;
+	width: 150px !important;
+}
+.formtext
+{
+	
+}
+.eso_page table, .mitabla
+{
+	font-size: 0.9em;
+	width: 100%;
+	margin: 20px auto;
+	border: none;
+	border-collapse: collapse;
+	border-top: 7px solid #3f72ac;
+	border-bottom:7px solid #3f72ac;
+}
+.eso_page th, .mitabla th
+{
+	padding: 10px 10px;
+	text-transform: uppercase;
+	text-align: left;
+	border-right: 1px solid #4c95e6;
+	border-left: 1px solid #4c95e6;
+}
+.eso_page td, .eso_page th
+{
+	border: none;
+}
+.eso_page td, .mitabla td
+{
+	padding: 5px 5px;
+	background: #f7f7f5;
+	border-right: 1px solid #aabcfe;
+	border-left: 1px solid #aabcfe;
+	border-bottom: 1px dotted #4c95e6;
+}
+.eso_page thead, .mitabla thead
+{
+	background-color: #87dbfa;
+	border-right: 1px solid #4c95e6;
+	border-left: 1px solid #4c95e6;
+}
+.right
+{
+	text-align: right;
+}

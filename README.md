@@ -1,2 +1,0 @@
-# Inventario
-Projekt z Hiszpanii
