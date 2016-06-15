@@ -1,0 +1,42 @@
+
+.dropdown:hover .dropdown-menu
+{
+	display:block;
+	margin-top: 0;
+	border-top-width: 0px;
+}
+body
+{
+	background-image: url(../mirrorsedge.jpg);
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-color: black;
+}
+#glownyTematContainer
+{
+	padding: 0px 0px 0px 0px;
+}
+#glownyTemat
+{
+	width:100%;
+	background-color: white;
+	box-shadow: 10px 10px 35px #888888;
+}
+
+#glownaTresc
+{
+	background-color: white;
+	height:100%;
+}
+#glownaTresc img
+{
+	width:100%;
+	border-radius: 1px;
+	box-shadow: 0px 0px 0px 8px rgba(0,0,0,0.3);  
+	vertical-align: top;
+}
+#glownaTresc .col-md-4
+{
+	padding-top: 25px;
+}
+
